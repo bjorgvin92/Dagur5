@@ -1,0 +1,1 @@
+#Setja inputtið inní while lykkju sem stoppar þegar slegið er inn negatíva tölu. í lykkjuni á að vera If fall sem athugar hvort talan sem var nýlega sleginn inn sé hærri en sú var fyrir og því mun það alltaf halda í hæstu töluna. þegar lykkjan er brotinn þá á að prenta út hæstu töluna.
